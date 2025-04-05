@@ -25,7 +25,3 @@ I'm a sophomore at the University of Wisconsin–Madison, majoring in Computer S
 - 📄 [Resume](https://docs.google.com/document/d/1DyCck9B3-R5QmZcJAvYSMImtEKMYYrNf/edit?usp=sharing&ouid=108546953253371886677&rtpof=true&sd=true)
 - 📫 How to reach me: nsbista@wisc.edu
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
