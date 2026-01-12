@@ -1,6 +1,6 @@
 # Hello, I'm Nischal S. Bista 👋
 
-I'm a sophomore at the University of Wisconsin–Madison, majoring in Computer Science.
+I'm a junior at the University of Wisconsin–Madison, majoring in Computer Science.
 
 ## About Me
 - 🎓 Studying Computer Science at UW-Madison
